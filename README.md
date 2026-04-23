@@ -42,6 +42,8 @@ Any real observer only sees a finite prefix of the sequence.
 ---
 
 ## Key Results
+![CHSH Simulation Results](RESULT%20OF%20chsh_simulation.jpeg)
+![Pattern Emergence Results](RESULT%20OF%20pattern_waiting_time.jpeg)
 
 ### CHSH Simulation (Quantum Violation)
 
