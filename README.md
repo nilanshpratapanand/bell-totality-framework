@@ -2,6 +2,7 @@
 
 ## Overview
 This project presents the **AST–Q (Anand–Stochastic Totality–Quantum) Framework**, a unified perspective connecting **quantum non-determinism** with **asymptotic pattern completeness** in stochastic processes.
+A computational framework connecting Bell-certified quantum randomness to asymptotic pattern completeness in stochastic systems.
 
 It combines:
 - **Bell/CHSH inequality violation** → physically certified randomness  
