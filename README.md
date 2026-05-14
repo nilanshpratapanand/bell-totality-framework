@@ -6,7 +6,7 @@ The central thesis is that the universe employs a physically real, non-determini
 
 ---
 
-## 🚀 The Three Pillars of AST–Q
+##  The Three Pillars of AST–Q
 
 ### 1. The Engine (Physics)
 
@@ -67,7 +67,7 @@ bell-totality-framework/
 │   └── pattern_waiting_time.png
 │
 └── README.md
-📊 Results Summary
+ Results Summary
 CHSH Convergence
 
 The Monte Carlo simulation produces values of:
@@ -99,7 +99,7 @@ Accessibility decreases exponentially
 
 → Explains why finite observation yields apparent randomness
 
-🛠️ Usage
+ Usage
 # Clone the repository
 git clone https://github.com/nilanshpratapanand/bell-totality-framework.git
 cd bell-totality-framework
@@ -112,7 +112,7 @@ python simulations/chsh_monte_carlo.py
 
 # Run pattern waiting-time simulation
 python simulations/pattern_growth.py
-📜 Research Note
+ Research Note
 
 The full theoretical framework is provided in:
 
@@ -121,11 +121,11 @@ docs/ast-q-note.tex
 Compile with:
 
 pdflatex docs/ast-q-note.tex
-🧠 Interpretation (AST–Q Statement)
+ Interpretation (AST–Q Statement)
 
 Bell-certified randomness provides a physical source whose unbounded extension asymptotically realizes all finite configurations, while finite observers access this totality only through stochastic projections.
 
-🙏 Acknowledgments
+ Acknowledgments
 
 This work builds conceptually on foundational contributions from:
 
